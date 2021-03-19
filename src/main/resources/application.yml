@@ -9,5 +9,5 @@ spring:
     config:
       server:
         git:
-          uri:
+          uri: https://github.com/techefx/environment-variable-repo.git
 
